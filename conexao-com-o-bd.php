@@ -1,8 +1,8 @@
 <?php 
 
 
-$banco = 'barbearia';
-$usuario = 'root'; 
+$banco = '';
+$usuario = ''; 
 $senha = '';
 $servidor = localhost;
 
