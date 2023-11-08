@@ -1,0 +1,6 @@
+https://www.youtube.com/playlist?list=PLmY5AEiqDWwDjjE7dEFT1jdrgh6-z7UCg > playlist do curso.
+
+
+vídeo 1 - como criar formulário e cadastrar com php e mysqli no banco de dados:
+    - 
+    - 
