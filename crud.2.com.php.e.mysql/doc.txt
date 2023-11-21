@@ -1,0 +1,7 @@
+Seguindo o tutorial do canal: 
+https://www.youtube.com/watch?v=BSqtIw_hW8M
+
+Pausa em: 8:40
+
+- Vamos usar o PHP MyAdmin.
+
