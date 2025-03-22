@@ -1,2 +1,2 @@
 # php
-Códigos prontos em php
+Estudos em PHP.
